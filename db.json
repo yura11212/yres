@@ -3,7 +3,7 @@
         "type": "fols",
         "input": 50,
         "title": "Набрать 50 фолловеров"
-    }
+    },
     "add": {
         "type": "folsmine",
         "input": 120,
